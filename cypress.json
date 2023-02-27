@@ -1,0 +1,6 @@
+{
+    "testFiles": [
+        "2-advanced-examples/a*.spec.js",
+        "2-advanced-examples/w*.spec.js"
+    ]
+}
